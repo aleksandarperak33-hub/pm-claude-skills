@@ -26,6 +26,7 @@ A directory of **skill repos and packs built by the community** that follow the
 | [Crew](https://github.com/Honorboxx/crew) | [@Honorboxx](https://github.com/Honorboxx) | Reviewer, debugger and planner agents plus scope/verify/git skills that size a task before coding and turn "done" into observed evidence. | https://github.com/Honorboxx/crew |
 | [YYLO Skills](https://github.com/yylo-dev/yylo-skills) | [@yylo-dev](https://github.com/yylo-dev) | Seven reusable agent skills for Claude Code, Codex, and Pi built around YYLO Ledger: task management, wiki and workflow Records, provenance-bound evidence, and validated task delivery. | https://github.com/yylo-dev/yylo-skills |
 | [agent-skills](https://github.com/mblode/agent-skills) | [@mblode](https://github.com/mblode) | Nobody ships AI slop on purpose. These skills make sure you don't. UI audits, typography, docs, PR review, and releases. | https://github.com/mblode/agent-skills |
+| [Tokenrip Handoff Kit](https://github.com/aleksandarperak33-hub/tokenrip-handoff-kit) | [@aleksandarperak33-hub](https://github.com/aleksandarperak33-hub) | Save a task, decision, sources and next action in Tokenrip, then continue from the exact saved record in another connected assistant. | https://github.com/aleksandarperak33-hub/tokenrip-handoff-kit |
 
 <!-- COMMUNITY-SKILLS:ROWS-BELOW
   Add your row directly above this comment, keeping the four columns in order:
